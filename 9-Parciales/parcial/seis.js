@@ -5,7 +5,6 @@ var importe;
 var max;
 var min;
 var bandera=true;
-var seguir=true;
 
 while(cont<3)
 {
